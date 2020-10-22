@@ -1,0 +1,9 @@
+.footer{
+    min-height:40vh;
+}
+.login-container{
+    padding:10px;
+}
+.info-err{
+    color: rgb(255, 60, 0);
+}
